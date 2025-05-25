@@ -1,3 +1,4 @@
+//This program has 2 defects which need to be fixed
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Function;
